@@ -1,1 +1,3 @@
-const app = ()
+const app = () => {
+    console.log("app");
+}
